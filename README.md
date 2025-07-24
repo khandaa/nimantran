@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# Nimantran - Event Management Platform
+
+Nimantran is a comprehensive event management platform designed to help users plan and organize various types of events including weddings, corporate events, birthdays, and social gatherings.
+
+## Features
+
+- **User Authentication**: Sign up and login functionality with email/password and social login options (Google, Facebook)
+- **Event Management**: Organize and manage different types of events
+- **Responsive Design**: Mobile-friendly interface for all screen sizes
+- **Rich Media Content**: Image galleries for different event types
+- **Modern UI**: Clean, intuitive interface with consistent styling
+- **Legal Compliance**: Terms & Conditions and Privacy Policy pages for legal compliance
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
